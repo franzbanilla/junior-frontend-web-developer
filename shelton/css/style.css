@@ -46,7 +46,7 @@
     width: 100%;
     padding: 0;
     margin: 0;
-    background: url(shelton/images/main.jpg);
+    background: url('../images/main.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 95vh;
@@ -78,7 +78,7 @@
     width: 100%;
     padding: 0;
     margin: 0;
-    background: url(shelton/images/about-us.jpg);
+    background: url('../images/about-us.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 80%;
